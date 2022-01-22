@@ -1,2 +1,2 @@
-# Personal-Projects
-Just a few of my simple projects
+# TicTacToe
+Just a simple Tic Tac Toe game.
